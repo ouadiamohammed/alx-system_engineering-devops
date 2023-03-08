@@ -1,1 +1,1 @@
-Shell basics
+first script
