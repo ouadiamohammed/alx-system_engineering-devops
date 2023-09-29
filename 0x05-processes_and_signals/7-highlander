@@ -2,7 +2,6 @@
 # displays strings indefinitely
 
 trap 'echo "I am invincible!!!"' SIGTERN
-
 while true
 do
     echo "To infinity and beyond"
