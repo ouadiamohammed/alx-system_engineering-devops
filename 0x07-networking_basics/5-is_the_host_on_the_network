@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#this script pings an IP adress passed as an arg
+
 if [ $# -gt 0 ]; then
     ping "$1" -c 5
 else
